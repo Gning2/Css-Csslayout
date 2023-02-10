@@ -7,7 +7,6 @@ body{
     display:flex;
     flex-direction: row;
     margin: 0 0 40 0;
-    
 }
 .navbar .flex-end{
     display:flex;
